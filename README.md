@@ -26,4 +26,7 @@ A retail company “ABC Private Limited” wants to understand the customer purc
 *  Detail analysis on product 1
 
 ![Screenshot](P1.png)
+![Screenshot](P2.png)
+![Screenshot](P3.png)
+![Screenshot](P4.png)
 
