@@ -27,5 +27,5 @@ A retail company “ABC Private Limited” wants to understand the customer purc
 
 ![Screenshot](P1.png)
 ![Screenshot](P3.png)
-![Screenshot](P4.png)
+![Screenshot](p4.png)
 
