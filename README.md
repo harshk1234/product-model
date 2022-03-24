@@ -29,6 +29,6 @@ A retail company “ABC Private Limited” wants to understand the customer purc
 ![Screenshot](P1.png)
 ## Understand purchase product_category_1 dependent on gender
 ![Screenshot](P3.png)
-## product category1 more demand in age
+## Product category1 more demand in age
 ![Screenshot](p4.png)
 
