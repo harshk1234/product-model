@@ -25,4 +25,5 @@ A retail company “ABC Private Limited” wants to understand the customer purc
 *  Observation Purchasing of men Vs women.
 *  Detail analysis on product 1
 
+![Screenshot](P1.png)
 
