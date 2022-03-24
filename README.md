@@ -25,7 +25,10 @@ A retail company “ABC Private Limited” wants to understand the customer purc
 *  Observation Purchasing of men Vs women.
 *  Detail analysis on product 1
 
+# understand purchase dependent on age
 ![Screenshot](P1.png)
+# understand purchase product_category_1 dependent on gender
 ![Screenshot](P3.png)
+# understand purchase 
 ![Screenshot](p4.png)
 
